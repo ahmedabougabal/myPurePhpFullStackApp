@@ -1,0 +1,34 @@
+.idea
+database/volume
+tree.txt
+dockerCommands.txt
+
+# IDE and Editor Files
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# OS and Editor Specific Files
+*.tmp
+*.bak
+
+# Composer
+vendor/
+composer.phar
+
+# Log Files
+*.log
+api/logs/
+
+# Cache Files
+api/cache/
+
+# PHP Temporary Files
+*.php~
+*.phtml~
+*.phpt~
+
+# Environment Variables
+.env
+gitTracker
